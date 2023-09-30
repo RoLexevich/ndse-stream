@@ -1,0 +1,5 @@
+{"secret":1,"answer":2,"win":false,"text":"Орёл","date":"2023-09-30T09:05:49.700Z"}
+{"secret":1,"answer":2,"win":false,"text":"Орёл","date":"2023-09-30T09:09:28.933Z"}
+{"secret":1,"answer":1,"win":true,"text":"Орёл","date":"2023-09-30T09:10:13.348Z"}
+{"secret":1,"answer":1,"win":true,"text":"Орёл","date":"2023-09-30T09:10:17.012Z"}
+{"secret":2,"answer":2,"win":true,"text":"Решка","date":"2023-09-30T09:12:43.603Z"}
